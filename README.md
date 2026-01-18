@@ -1,6 +1,6 @@
 ## Hi there i'm Thex 👋
 
-### learning computer science in Operation and infrastructure
+### learning computer science in operation and infrastructure
 
 - random coding sometime
 - like self-hosting
