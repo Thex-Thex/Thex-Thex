@@ -2,6 +2,10 @@
 
 ### learning computer science in exploitation and infrastructure
 
+- random coding sometime
+- (vibe-codding) used to help learning da code
+- 
+
 <!--
 **Thex-Thex/Thex-Thex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
