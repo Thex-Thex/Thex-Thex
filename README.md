@@ -1,5 +1,7 @@
 ## Hi there i'm Thex 👋
 
+### learning computer science in exploitation and infrastructure
+
 <!--
 **Thex-Thex/Thex-Thex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
