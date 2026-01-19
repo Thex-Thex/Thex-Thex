@@ -3,7 +3,7 @@
 ### learning computer science in operation and infrastructure
 
 - random coding sometime
-- like self-hosting
+- like self-hosting and open source 
 - (vibe-codding) used to help learning da code
 
 <!--
